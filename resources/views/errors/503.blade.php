@@ -34,7 +34,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Be right back.</div>
+                <div class="title">Em manutenção. Voltaremos em breve AGUARDE</div>
             </div>
         </div>
     </body>

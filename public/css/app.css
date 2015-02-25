@@ -3,6 +3,7 @@ html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
+  color: #222222;
 }
 body {
   margin: 0;
@@ -4977,6 +4978,7 @@ a.list-group-item-danger.active:focus {
 .panel {
   margin-bottom: 20px;
   background-color: #ffffff;
+  color: #222222;
   border: 1px solid transparent;
   border-radius: 4px;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
