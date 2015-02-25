@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: robmachado\hermes
+        psr4_prefix: robmachado\hermes
+        src_path: app
